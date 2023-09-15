@@ -14,6 +14,7 @@ provider "aws" {
       Owner = "Lucas Sachini Canno"
       Env   = "Producao"
       Class = "CLC10"
+      Org = "Impacta"
     }
   }
 }
